@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "importHelpers": true,
+    "lib": ["es2015", "dom"],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "target": "esnext",
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
